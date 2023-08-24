@@ -46,3 +46,44 @@
 //     autor: 'Maria'
 // }
 // console.log(biblioteca)
+
+//Enum
+//primeira
+// const dias = {
+//     DOM: 'Domingo',
+//     SEG: 'Segunda-Feira',
+//     TER: 'Terça-Feira',
+//     QUA: 'Quarta-Feira',
+//     QUI: 'Quinta-Feira',
+//     SEX: 'Sexta-Feira',
+//     SAB: 'Sabado'
+// }
+
+//segunda
+// const enemy = {
+//     TORT: 'Tartaruga dragão',
+//     DOG: 'cachorro demonio',
+//     CAT: 'Lince da selva'
+// }
+
+//terceira
+// let passagens = {
+//     ECO: 'Classe Econômica',
+//     EXE: 'Classe Executiva',
+//     TOP: 'Primeira Classe'
+// }
+
+//quarta
+// let agenda = {
+//     WORK: 'Trabalhar',
+//     STUDY: 'Estudar',
+//     LASER: 'Lazer'
+
+// }
+
+//quinta
+// let statusPedido = {
+//     PROC: 'Em processamento',
+//     ENV: 'Enviado',
+//     ENT: 'Entregue'
+// }
