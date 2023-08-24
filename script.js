@@ -17,6 +17,7 @@
 
 //quinto
 // let contato = {nome:'', email:'hdasgdjh@gmail.com'}
+// console.log(contato)
 // delete contato.email
 // console.log(contato)
 
